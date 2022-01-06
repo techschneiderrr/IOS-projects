@@ -27,7 +27,7 @@ To deploy this project run
     </thead>
     <tr>
 		<td>
-			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/Ms-Teams-Clone/blob/main/assets/Screenshot%202021-12-31%20at%2012.31.37%20PM.png">
+			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/Screenshot%202022-01-06%20at%208.45.31%20AM.png">
 		</td>
     </tr>
 
@@ -41,10 +41,10 @@ To deploy this project run
 	</thead>
 	<tr>
 		<td>
-			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/Ms-Teams-Clone/blob/main/assets/Screenshot%202021-12-31%20at%2012.31.37%20PM.png">
+			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/Screenshot%202022-01-06%20at%208.46.08%20AM.png">
 		</td>
 		<td>
-			<img width="306" alt="render-one" src="https://github.com/techschneiderrr/Ms-Teams-Clone/blob/main/assets/Screen%20Recording%202021-12-31%20at%2012.36.44%20PM.gif">
+			<img width="306" alt="render-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/%20i%20am%20rich.gif">
 		</td>
 	</tr>
 	</table>

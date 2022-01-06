@@ -29,10 +29,10 @@ To deploy this project run
     </tr>
     <tr>
 		<td>
-			<h2>Screenshot</h2>
+			<h4>Screenshot</h4>
 		</td>
         <td>
-			<h2>Video Demo</h2>
+			<h4>Video Demo</h4>
 		</td>
     </tr>
 	<tr>

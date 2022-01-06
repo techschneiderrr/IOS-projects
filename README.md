@@ -61,18 +61,18 @@ To deploy this project run
 		</td>
     </tr>
     <tr>
-		<td>
+		<td align="center">
 			<h4>Screenshot</h4>
 		</td>
-        <td>
+        <td align="center">
 			<h4>Video Demo</h4>
 		</td>
     </tr>
 	<tr>
-		<td>
+		<td align="center">
 			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/Screenshot%202022-01-06%20at%208.42.35%20AM.png">
 		</td>
-		<td>
+		<td align="center">
 			<img width="306" alt="render-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/dice.gif">
 		</td>
 	</tr>

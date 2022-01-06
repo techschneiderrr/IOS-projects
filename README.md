@@ -20,11 +20,17 @@ To deploy this project run
 
 <center>
 <table>
-  <thead>
+    <thead>
 		<td colSpan="2">
 			<b>I am rich</b>
 		</td>
-	</thead>
+    </thead>
+    <tr>
+		<td>
+			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/Ms-Teams-Clone/blob/main/assets/Screenshot%202021-12-31%20at%2012.31.37%20PM.png">
+		</td>
+    </tr>
+
 	<thead>
 		<td>
 			<b>Screenshot</b>

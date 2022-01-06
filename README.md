@@ -79,7 +79,37 @@ To deploy this project run
 	</table>
 </center>
 
-
+## 3. Magic ball game
+<center>
+<table>
+    <thead>
+		<td align="center" colSpan="2">
+			<h4>Code environment screenshot</h4>
+		</td>
+    </thead>
+    <tr>
+		<td colSpan="2">
+			<img width="5500" alt="code-one" src="https://github.com/techschneiderrr/iOS-projects/blob/main/repository%20assets/magic%20ball%20code.png">
+		</td>
+    </tr>
+    <tr>
+		<td align="center">
+			<h4>Screenshot</h4>
+		</td>
+        <td align="center">
+			<h4>Video Demo</h4>
+		</td>
+    </tr>
+	<tr>
+		<td align="center">
+			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/iOS-projects/blob/main/repository%20assets/magic%20ball%20app.png">
+		</td>
+		<td align="center">
+			<img width="306" alt="render-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/dice.gif">
+		</td>
+	</tr>
+	</table>
+</center>
 
 ## Authors
 

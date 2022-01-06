@@ -15,6 +15,7 @@ To deploy this project run
 
 ## Screenshots
 
+## 1. I am rich app
 <center>
 <table>
     <thead>
@@ -46,6 +47,37 @@ To deploy this project run
 	</table>
 </center>
 
+## 2. Dice roller game
+<center>
+<table>
+    <thead>
+		<td colSpan="2">
+			<h4>Dice game</h4>
+		</td>
+    </thead>
+    <tr>
+		<td colSpan="2">
+			<img width="5500" alt="code-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/Screenshot%202022-01-06%20at%208.42.07%20AM.png">
+		</td>
+    </tr>
+    <tr>
+		<td>
+			<h4>Screenshot</h4>
+		</td>
+        <td>
+			<h4>Video Demo</h4>
+		</td>
+    </tr>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/Screenshot%202022-01-06%20at%208.42.35%20AM.png">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/dice.gif">
+		</td>
+	</tr>
+	</table>
+</center>
 
 
 

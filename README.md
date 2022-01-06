@@ -19,12 +19,12 @@ To deploy this project run
 <table>
     <thead>
 		<td colSpan="2">
-			<b>I am rich</b>
+			<h4>I am rich</h4>
 		</td>
     </thead>
     <tr>
 		<td colSpan="2">
-			<img width="500" alt="code-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/Screenshot%202022-01-06%20at%208.45.31%20AM.png">
+			<img width="5500" alt="code-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/Screenshot%202022-01-06%20at%208.45.31%20AM.png">
 		</td>
     </tr>
     <tr>

@@ -20,7 +20,7 @@ To deploy this project run
 <table>
     <thead>
 		<td align="center" colSpan="2">
-			<h4>I am rich</h4>
+			<h4>Code environment screenshot</h4>
 		</td>
     </thead>
     <tr>
@@ -51,8 +51,8 @@ To deploy this project run
 <center>
 <table>
     <thead>
-		<td colSpan="2">
-			<h4>Dice game</h4>
+		<td align="center" colSpan="2">
+			<h4>Code environment screenshot</h4>
 		</td>
     </thead>
     <tr>

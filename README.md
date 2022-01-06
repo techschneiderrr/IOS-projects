@@ -105,7 +105,7 @@ To deploy this project run
 			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/iOS-projects/blob/main/repository%20assets/magic%20ball%20app.png">
 		</td>
 		<td align="center">
-			<img width="306" alt="render-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/dice.gif">
+			<img width="306" alt="render-one" src="" alt="will add the video demo soon">
 		</td>
 	</tr>
 	</table>

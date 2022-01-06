@@ -30,15 +30,18 @@ To deploy this project run
 			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/Screenshot%202022-01-06%20at%208.45.31%20AM.png">
 		</td>
     </tr>
-
-	<thead>
+    <tr>
 		<td>
-			<b>Screenshot</b>
+			<h2>Screenshot</h2>
 		</td>
+        <td>
+			<h2>Video Demo</h2>
+		</td>
+    </tr>
 		<td>
-			<b>Video demo</b>
+			<img width="306" alt="render-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/%20i%20am%20rich.gif">
 		</td>
-	</thead>
+	</tr>
 	<tr>
 		<td>
 			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/Screenshot%202022-01-06%20at%208.46.08%20AM.png">

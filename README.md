@@ -21,7 +21,7 @@ To deploy this project run
 <center>
 <table>
   <thead>
-		<td>
+		<td colSpan="2">
 			<b>I am rich</b>
 		</td>
 	</thead>

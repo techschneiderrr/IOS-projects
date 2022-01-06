@@ -24,7 +24,7 @@ To deploy this project run
     </thead>
     <tr>
 		<td colSpan="2">
-			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/Screenshot%202022-01-06%20at%208.45.31%20AM.png">
+			<img width="500" alt="code-one" src="https://github.com/techschneiderrr/IOS-projects/blob/main/repository%20assets/Screenshot%202022-01-06%20at%208.45.31%20AM.png">
 		</td>
     </tr>
     <tr>

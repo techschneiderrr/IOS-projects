@@ -19,7 +19,7 @@
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="nti-Lf-6Xg">
                                 <rect key="frame" x="71.666666666666657" y="304" width="270.66666666666674" height="288"/>
                                 <subviews>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" placeholderIntrinsicWidth="240" placeholderIntrinsicHeight="240" image="manav" translatesAutoresizingMaskIntoConstraints="NO" id="DqM-SY-fbZ">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" placeholderIntrinsicWidth="240" placeholderIntrinsicHeight="240" image="Image" translatesAutoresizingMaskIntoConstraints="NO" id="DqM-SY-fbZ">
                                         <rect key="frame" x="0.0" y="0.0" width="270.66666666666669" height="240"/>
                                         <rect key="contentStretch" x="0.0" y="0.0" width="0.0" height="0.0"/>
                                     </imageView>
@@ -49,6 +49,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="manav" width="421" height="421"/>
+        <image name="Image" width="421" height="421"/>
     </resources>
 </document>

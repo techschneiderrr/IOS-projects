@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Dicee-iOS13
 //
-//  Created by Angela Yu on 11/06/2019.
+//  Created by Manav Lamba on 11/01/2022.
 //  Copyright © 2019 London App Brewery. All rights reserved.
 //
 

@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Magic 8 Ball
 //
-//  Created by Angela Yu on 14/06/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Manav Lamba on 14/01/2022.
+//  Copyright © 2022 Manav-Lamba. All rights reserved.
 //
 
 import UIKit

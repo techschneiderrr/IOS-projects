@@ -1,7 +1,7 @@
 
 //  SceneDelegate.swift
 //  EggTimer
-//
+
 //  Created by Manav Lamba on 08/01/2022.
 //  Copyright © 2022 Manav-Lamba. All rights reserved.
 
